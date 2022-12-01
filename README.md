@@ -1,2 +1,2 @@
 # PoroMovies
-Ayo! It's the discord bot for PoroMovie's OPEN SOURCE CODE!
+PoroMovies support has ended, don't expect a release date.
